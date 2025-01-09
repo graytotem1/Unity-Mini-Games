@@ -1,0 +1,14 @@
+Post Apocalyptic Town (Town, Modular Town, Post Apocalypse, Sci-Fi, Wasteland) v1.0 (Latest version)
+
+Download (2.1 GB) 
+https://cutt.ly/Ke2eTLmb
+
+
+if(you.State == "Find What You Want")
+{
+	you.Subscribe(@gamedevscommunity); // our telegram channel
+}
+else
+{
+	you.Abilities.GetAssetsForFree = null;
+}
